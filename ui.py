@@ -47,7 +47,7 @@ class View(QWidget):
         
         self.setLayout(vbox)
         
-        self.setWindowTitle('Calculator')
+        self.setWindowTitle('Calculator_testA')
         self.setWindowIcon(QIcon('icon.png'))
         self.resize(256,256)
         self.show()
